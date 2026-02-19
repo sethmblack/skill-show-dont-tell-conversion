@@ -3,8 +3,9 @@ name: show-dont-tell-conversion
 description: 'Convert abstract statements, descriptions, and "telling" into concrete scenes, dialogue, and dramatization. Based on Twain''s principle: "Don''t say the old lady screamed. Bring her on and let her sc...'
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4970
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - show-don't-tell-conversion
 - transformation
